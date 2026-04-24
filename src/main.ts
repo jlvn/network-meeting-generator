@@ -1,3 +1,4 @@
+import './styles.css'
 import {PDFDocument} from 'pdf-lib'
 
 const generateButton = document.getElementById('generateButton') as HTMLButtonElement
